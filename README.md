@@ -1,16 +1,31 @@
-## Hi there 👋
+### Hello, I'm Alberto! 👋
 
-<!--
-**albdev3/albdev3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Freelance web developer since 2018.  
+I build custom, fast, and long-lasting websites for SMEs and professionals.
 
-Here are some ideas to get you started:
+Founder of **mdw creative** — independent custom web development studio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### What I do
+
+* **Custom websites** — WordPress from scratch (no pre-made themes), HTML/CSS/Tailwind, JavaScript
+* **E-commerce** — Tailored WooCommerce stores with smooth checkout and payments
+* **Booking & automations** — Booking systems, CRM, autoresponder, and integrations
+* **SEO & performance** — Core Web Vitals, Cloudflare/CDN, clean and fast code
+
+#### Stack
+
+WordPress · HTML · CSS · Tailwind CSS · JavaScript · WooCommerce · Cloudflare · SEO
+
+#### Links
+
+* Personal site: [albertofranchi.dev](https://albertofranchi.dev)
+* Studio: [mdwcreative.it](https://mdwcreative.it)
+* LinkedIn: [alberto-franchi-dev](https://www.linkedin.com/in/alberto-franchi-dev/)
+* X: [@albdev3](https://x.com/albdev3)
+
+Open to new projects.  
+You talk directly with the person who designs and builds your site.
+
+---
+
+*50+ projects delivered. Clean code, minimal design, extreme performance.*

@@ -3,14 +3,14 @@
 Freelance web developer since 2018.  
 I build custom, fast, and long-lasting websites for SMEs and professionals.
 
-Founder of **mdw creative** — independent custom web development studio.
+Founder of **mdw creative** - independent custom web development studio.
 
 #### What I do
 
 * **Custom websites** - WordPress from scratch (no pre-made themes), HTML/CSS/Tailwind, JavaScript
-* **E-commerce** — Tailored WooCommerce stores with smooth checkout and payments
-* **Booking & automations** — Booking systems, CRM, autoresponder, and integrations
-* **SEO & performance** — Positioning SEO & GEO, Cloudflare/CDN, clean and fast code
+* **E-commerce** - Tailored WooCommerce stores with smooth checkout and payments
+* **Booking & automations** - Booking systems, CRM, autoresponder, and integrations
+* **SEO & performance** - Positioning SEO & GEO, Cloudflare/CDN, clean and fast code
 
 #### Stack
 

@@ -7,10 +7,10 @@ Founder of **mdw creative** — independent custom web development studio.
 
 #### What I do
 
-* **Custom websites** — WordPress from scratch (no pre-made themes), HTML/CSS/Tailwind, JavaScript
+* **Custom websites** - WordPress from scratch (no pre-made themes), HTML/CSS/Tailwind, JavaScript
 * **E-commerce** — Tailored WooCommerce stores with smooth checkout and payments
 * **Booking & automations** — Booking systems, CRM, autoresponder, and integrations
-* **SEO & performance** — Core Web Vitals, Cloudflare/CDN, clean and fast code
+* **SEO & performance** — Positioning SEO & GEO, Cloudflare/CDN, clean and fast code
 
 #### Stack
 
